@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# CMake scripts generated directories
+test_*/
